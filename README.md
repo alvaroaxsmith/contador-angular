@@ -2,7 +2,9 @@
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido durante o bootcamp da SoulCode Academy. Trata-se de um site contador, onde os botões na tela incrementam ou decrementam valores. O objetivo deste projeto foi colocar em prática os conceitos de Data Binding em Angular.
+Este projeto foi desenvolvido durante o bootcamp da SoulCode Academy. Trata-se de um site contador, onde os botões na tela incrementam ou decrementam valores. 
+
+O objetivo desta tarefa foi colocar em prática os conceitos de Data Binding usando Angular.
 
 | Demonstração  |
 |---|
