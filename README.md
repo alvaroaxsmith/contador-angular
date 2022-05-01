@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido durante o bootcamp da SoulCode Academy. Trata-se de um site contador, onde os botões na tela incrementam ou decrementam valores. Objetivo deste projeto foi colocar em prática os conceitos de Data Binding em Angular.
 
-| Home  |
+| Demonstração  |
 |---|
 | ![home.gif](https://github.com/alvaroaxsmith/contador-angular/blob/main/.github/images/home.gif)  | 
 
