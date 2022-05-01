@@ -1,27 +1,52 @@
-# SoulCodeNgEx3
+# Site Contador
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+## 💻 Projeto
 
-## Development server
+Este projeto foi desenvolvido durante o bootcamp da SoulCode Academy. Trata-se de um site contador, onde os botões na tela incrementam ou decrementam valores. Objetivo deste projeto foi colocar em prática os conceitos de Data Binding em Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+| Home  |
+|---|
+| ![home.gif](https://github.com/alvaroaxsmith/contador-angular/blob/main/.github/images/home.gif)  | 
 
-## Code scaffolding
+## :rocket: Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+ 
+- Angular-Material
+ 
+- Typescript
 
-## Build
+- CSS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## :clipboard: Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js
 
-## Running end-to-end tests
+- Angular CLI
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ⚙️ Instalação
 
-## Further help
+Clone o repositório em alguma pasta em sua máquina:
+```bash
+$ git clone https://github.com/alvaroaxsmith/contador-angular.git
+```
+Entre no repositório:
+```bash
+$ cd contador-angular
+```
+Instale as dependências digitando no terminal:
+```bash
+$ npm install
+```
+Rode a aplicação:
+```bash
+$ ng serve
+```
+Abra http://localhost:4200 no seu navegador para visualizar o projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alvaroaxsmith/contador-angular/blob/main/LICENSE) para mais detalhes.
+
