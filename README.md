@@ -23,6 +23,8 @@ O objetivo desta tarefa foi colocar em prática os conceitos de Data Binding usa
 
 ## :clipboard: Pré-requisitos
 
+- GIT
+
 - Node.js
 
 - Angular CLI
